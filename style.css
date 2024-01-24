@@ -1,0 +1,240 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wght@8..144,100&display=swap");
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  width: 100%;
+  overflow-x: hidden;
+}
+/* HEADER OF THE WEBSITE */
+header {
+  color: #333;
+  padding-top: 0%;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  height: 150%;
+  margin: -33px;
+}
+#logo {
+  height: 120px;
+  width: 85px;
+  align-items: center;
+  padding-top: 0px;
+  margin-top: 45px;
+  margin-right: 30px;
+}
+.top {
+  list-style: none;
+  margin: 50px;
+  justify-content: space-between;
+  text-decoration: underline cadetblue 1px;
+  text-underline-offset: 8px;
+  padding: 5px;
+}
+li {
+  margin: 10px;
+  padding: 0%;
+  font-family: "Lora", serif;
+}
+header .list {
+  justify-content: space-between;
+}
+nav {
+  background-color: #f4f4f4;
+  color: black;
+  padding: 10px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+p {
+  text-align: center;
+  font-size: small;
+  margin: 0%;
+}
+
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+article {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+h3 {
+  margin: 5px;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 300;
+  text-align: left;
+  padding: auto;
+  margin-bottom: 2px;
+}
+input {
+  text-align: center;
+  margin-left: 38%;
+  width: 25%;
+}
+#headline {
+  width: 120px;
+  height: 50px;
+  margin-bottom: 5px;
+  background-color: black;
+  font-family: Roboto Serif, serif;
+  color: white;
+}
+#breaking {
+  text-align: center;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 400;
+  padding-top: 0;
+  display: inline;
+  margin: 0 0 0 25%;
+  background-color: #000;
+  border-radius: 2px;
+}
+/* HEADER OF THE WEBSITE */
+
+* {
+  font-family: sans-serif, serif;
+
+}
+table tr{
+  overflow-x: hidden;
+}
+#divone {
+  font-style: italic;
+  font-size: 18px;
+}
+.orange {
+  color: orange;
+}
+.thursday {
+  font-family: "Roboto Serif", serif;
+  font-style: normal;
+  font-size: 16px;
+}
+.table-2 {
+  text-align: center;
+  font-size: 18px;
+  width: 70%;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.table-3 {
+  padding: 20px;
+  display: inline;
+}
+.mybox {
+  font-weight: bold;
+  width: 120px;
+  height: 40px;
+  border: 2px solid;
+  padding: 10px;
+  color: antiquewhite;
+  background-color: black;
+}
+.div-3 {
+  display: inline;
+  font-family: "Roboto Serif", serif;
+  font-size: 15px;
+  width: 70%;
+  font-weight: 800;
+}
+.div-4 {
+  display: inline;
+  font-family: "Roboto Serif", serif;
+  font-size: 15px;
+  width: 70%;
+  font-weight: bold;
+  color: #1ac8d2;
+}
+.divv-3 {
+  display: inline;
+  font-size: 13px;
+}
+.td-1 {
+  width: 200%;
+  margin: 10px;
+  margin-right: -20px;
+  margin-left: 60px;
+}
+.fieldset-1 {
+  width: 75%;
+  padding-inline-start: 15px;
+  border-color: rgb(0, 0, 0);
+  border-radius: 5px;
+}
+.fieldset-2 {
+  width: 320px;
+  border-radius: 5px;
+  border-color: #ef9f4c;
+  margin-top: 60px;
+}
+.orderedlist {
+  font-size: 25px;
+  list-style: decimal;
+  margin: auto;
+  padding: 15px;
+  gap: 5px;
+}
+
+.end {
+  font-size: 12px;
+  text-indent: 13px;
+}
+.lasttable {
+  font-family: "Roboto Serif", serif;
+  font-size: 12px;
+  font-weight: 300;
+}
+.sportnews {
+  font-family: sans-serif, serif;
+  color: green;
+  font-size: 15px;
+  font-weight: 600;
+}
+.roboto {
+  font-family: "Roboto Serif", serif;
+}
+.worldtd {
+  font-size: 14px;
+  width: min-content;
+  /* align-items: ; */
+}
+.verticalline {
+  display: flex;
+  width: 1px;
+  background-color: rgb(68, 70, 68);
+  height: 40vh;
+  margin-bottom: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.fontchange {
+  font-size: 14px;
+}
+.technology {
+  align-items: last baseline;
+}
+/* this is bt-head */
+#bt-head {
+  text-align: left;
+  margin-bottom: 21px;
+  margin-top: 21px;
+  margin-left: 0;
+}
